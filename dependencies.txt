@@ -1,0 +1,4 @@
+react native navigation
+react native svg
+react native elements
+eact-native-vector-icons
